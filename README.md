@@ -17,8 +17,7 @@ An interactive Power BI dashboard analyzing survey responses from **630 data pro
 - **Salary Happiness** — Average score: 4.27 / 10
 
 ## 🛠️ Tools Used
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
+- Power BI Desktop- DAX (Data Analysis Expressions)
 - Power Query (data cleaning & transformation)
 
 ## 📷 Dashboard Preview
