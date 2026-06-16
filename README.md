@@ -20,8 +20,4 @@ An interactive Power BI dashboard analyzing survey responses from **630 data pro
 - Power BI Desktop- DAX (Data Analysis Expressions)
 - Power Query (data cleaning & transformation)
 
-## 📷 Dashboard Preview
-![Dashboard](dashboard_preview.png)
 
-## 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/shahd-safwat) | [GitHub](https://github.com/Shahdsafwat)
